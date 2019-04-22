@@ -1,4 +1,3 @@
-# SubCode
 
 # 从零到一集成 Google Play 订阅服务
 
